@@ -11,6 +11,10 @@ article{
     text-align: left;
 }
 
+article:first-child{
+    color: red;
+}
+
 h2{
     text-align: left;
 }
